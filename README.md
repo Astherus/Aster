@@ -69,6 +69,8 @@ All major platform functions are governed by transparent and auditable smart con
 
 **Key Contract Addresses:**
 
+<img width="430" height="235" alt="982db46c49bb8aff5157bb0a0b59f591" src="https://github.com/user-attachments/assets/2cf35e28-d5c2-46bb-b9c3-6fc60ecb0bf9" />
+
 | Chain      | Main Contract Address                                   |
 |------------|--------------------------------------------------------|
 | BNB Chain  | `0x128463A60784c4D3f46c23Af3f65Ed859Ba87974`           |
@@ -130,6 +132,5 @@ More info: [Rewards Hub docs](https://docs.asterdex.com/rewards-hub)
 - [Telegram](https://t.me/asterdex)
 - [Twitter/X](https://twitter.com/AsterDex)
 - [Discord](https://discord.gg/asterdex)
-<img width="430" height="235" alt="982db46c49bb8aff5157bb0a0b59f591" src="https://github.com/user-attachments/assets/2cf35e28-d5c2-46bb-b9c3-6fc60ecb0bf9" />
 
 ---
